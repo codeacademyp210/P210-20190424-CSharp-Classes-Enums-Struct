@@ -1,0 +1,7 @@
+C:\Users\sattar\Desktop\P210\C#\20190424\Solution20190424\ClassProject\bin\Debug\ClassProject.exe.config
+C:\Users\sattar\Desktop\P210\C#\20190424\Solution20190424\ClassProject\bin\Debug\ClassProject.exe
+C:\Users\sattar\Desktop\P210\C#\20190424\Solution20190424\ClassProject\bin\Debug\ClassProject.pdb
+C:\Users\sattar\Desktop\P210\C#\20190424\Solution20190424\ClassProject\obj\Debug\ClassProject.csprojAssemblyReference.cache
+C:\Users\sattar\Desktop\P210\C#\20190424\Solution20190424\ClassProject\obj\Debug\ClassProject.csproj.CoreCompileInputs.cache
+C:\Users\sattar\Desktop\P210\C#\20190424\Solution20190424\ClassProject\obj\Debug\ClassProject.exe
+C:\Users\sattar\Desktop\P210\C#\20190424\Solution20190424\ClassProject\obj\Debug\ClassProject.pdb

@@ -1,0 +1,6 @@
+C:\Users\sattar\Desktop\P210\C#\20190424\Solution20190424\Enums\bin\Debug\Enums.exe.config
+C:\Users\sattar\Desktop\P210\C#\20190424\Solution20190424\Enums\bin\Debug\Enums.exe
+C:\Users\sattar\Desktop\P210\C#\20190424\Solution20190424\Enums\bin\Debug\Enums.pdb
+C:\Users\sattar\Desktop\P210\C#\20190424\Solution20190424\Enums\obj\Debug\Enums.csproj.CoreCompileInputs.cache
+C:\Users\sattar\Desktop\P210\C#\20190424\Solution20190424\Enums\obj\Debug\Enums.exe
+C:\Users\sattar\Desktop\P210\C#\20190424\Solution20190424\Enums\obj\Debug\Enums.pdb
